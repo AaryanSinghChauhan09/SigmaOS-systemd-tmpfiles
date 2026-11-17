@@ -3,7 +3,7 @@ name = "SigmaOS-systemd-tmpfiles"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "systemd-tmpfiles component"
+description = "systemd tmpfiles"
 upstream = []
 
 [contract]
